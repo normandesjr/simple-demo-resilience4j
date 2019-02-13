@@ -1,0 +1,15 @@
+target
+.classpath
+.project
+.settings
+.idea
+*.iml
+.gradle
+build
+native/
+caches/
+.sonar
+node_modules
+dist
+classes
+out
